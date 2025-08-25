@@ -33,6 +33,14 @@ Print to Play allows you to experience Athernum: The Old World immediately by do
 
 <hr/>
 
+## No Pay-2-Win
+
+In many trading card games, the strongest cards are locked behind rarity tiers, forcing players to spend more just to stay competitive. Athernum breaks with that tradition. Every card is equally accessible, and no gameplay element is gated by rarity. Instead, our packs use a fair upgrade system: each card has a 30% chance to appear in a collectible variant – foil, full-art, or both combined. These upgrades add beauty and value for collectors, but they never alter the rules or power of the card.
+
+This means you can build any deck you like without chasing “mythics” or “ultras.” In Athernum, skill, strategy, and creativity decide the game – not the size of your wallet
+
+<hr/>
+
 ## Unique Card Tokens
 
 The Archen Tactical Card Game System features QR codes printed on their cards. Those codes allow their physical owner to also claim its digital ownership. This can be considered a Non-Fungible Token or NFT. NFTs are a unique digital identifier that are recorded and used to certify ownership of a card. This can also be transferred, allowing cards to be sold and traded not just offline but also online. This makes the Archen Tactical Card Game System a hybrid solution, connecting offline and online activities in a unique way.
