@@ -18,7 +18,7 @@ The world of Athernum stands on the edge of the abyss: old powers have fallen, a
 
 Athernum: The Old World offers a general rulebook designed to teach the fundamentals of the game. It will walk the player through the game step by step. The rules can be reached online, in an easy browsable way or as a ready to print document.
 
-[Download the Rules](https://github.com/SchroedingerEntertainment/Athernum-The-Old-World/tree/main/Rulebooks)
+Download the Rules ([EN](https://raw.githubusercontent.com/Athernum/Athernum-The-Old-World/main/Quick%20Start%20Guide%20-%20EN.pdf))([DE](https://raw.githubusercontent.com/Athernum/Athernum-The-Old-World/main/Quick%20Start%20Guide%20-%20DE.pdf))
 
 [View the Master Document](https://raw.githubusercontent.com/SchroedingerEntertainment/Athernum-The-Old-World/main/Athernum%20-%20The%20Old%20World%20Comprehensive%20Rules.pdf
 )
@@ -29,7 +29,7 @@ Athernum: The Old World offers a general rulebook designed to teach the fundamen
 
 Print to Play allows you to experience Athernum: The Old World immediately by downloading and printing the game materials yourself. Without waiting for physical shipments or boxed editions, you can build your decks, study the cards, and dive into tactical battles right away. This approach makes the game accessible to everyone, offering flexibility to customize your collection and enjoy the full strategic depth of Athernum at your own pace—whether at home or with friends. It’s the fastest way to enter the world and start shaping the future.
 
-[Get the Material](https://github.com/SchroedingerEntertainment/Athernum-The-Old-World/tree/main/Print%20n%20Play)
+[Get the Material](https://github.com/Athernum/Athernum-The-Old-World/releases/tag/GPS)
 
 <hr/>
 
